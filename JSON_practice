@@ -1,3 +1,11 @@
 const json_test = {
-  
+  sex: "male",
+  age: 22,
+    info: {
+      name: "fred",
+      height: 123,
+      hobbies: {
+        
+      }
+    }
 }
