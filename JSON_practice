@@ -4,8 +4,9 @@ const json_test = {
     info: {
       name: "fred",
       height: 123,
-      hobbies: {
-        
-      }
+        hobbies: {
+          tech: ["react","javascript","ruby"],
+          fit: ["bjj", "mma", "kickboxing"]
+        }
     }
 }
